@@ -13,4 +13,4 @@
 
 ![](assets/caballerodeni.png)
 
-## **Deja todas tus identidades en la puerta.** Porque en internet nadie sabe que eres un caballero de ni. (No importa)
+## **Deja todas tus identidades en la puerta.** Porque NI (no importan)
