@@ -19,9 +19,9 @@ La red social distribuida.
 
 ## Documentation y diseño:
 
-* [protocolo wsw](./wsw.md)
-* [librería wswjs](./wswjs.md)
-* [aplicación nonet](./nonet.md)
+* [protocolo wsw](./wsw)
+* [librería wswjs](./wswjs)
+* [aplicación nonet](./nonet)
 
 ## Cómo participar
 
