@@ -9,8 +9,8 @@ La red social distribuida.
 ## Visión:
 
 1. La sociedad debe recuperar la soberanía sobre sus datos, comunicaciones e interacciones para garantizar mejor los derechos y libertades colectivos e individuales.
-2. El modo en que las redes sociales centralizadas usurpan tal soberanía resulta contrario a los intereses de sus usuarios y de la sociedad en su conjunto.
-3. Una red social descentralizada basada en un protocolo abierto es la mejor herramienta para sustituir a las redes sociales centralizadas.
+2. Las redes sociales centralizadas usurpan tal soberanía y atentan contra los intereses de sus usuarios y de la sociedad en su conjunto.
+3. Una red social descentralizada basada en un protocolo abierto es la mejor herramienta para sustituir a las redes sociales centralizadas, y recuperar la soberanía digital.
 
 ## Acciones:
 1. Definir el protocolo abierto WSW que permita a los sitios web interactuar entre sí de modo que puedan disponer de las características propias de una red social centraliada.
@@ -27,14 +27,5 @@ La red social distribuida.
 
 * Para cualquier pregunta, idea, o debate, abre una issue.
 * Para enmiendas, crea una pull request.
-
-## Idioma.
-
-Yo escribo en castellano porque es mi lengua materna, y por tanto en la que mejor me expreso, pero el proyecto no tiene idioma oficial. Puedes utilizar el idioma que quieras.
-
-
-## Normas de conducta.
-
-Estas son todas las normas de conducta:
-
-1. **No alimentes al trol.**
+* Escribe en el idioma en el que mejor que expreses. Un proyecto sobre la decentralización y la soberanía por coherencia no puede imponer un idioma oficial.
+* Sigue las [normas de conducta](normas-de-conducta.md):
